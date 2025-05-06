@@ -1,6 +1,6 @@
 🔍 Fake Job Detector Chrome Extension
 An AI-Augmented Chrome Extension for Real-Time Detection of Deceptive Job Listings on Naukri.com.
-![Uploading Picture 1.png…]()
+![Picture 1](https://github.com/user-attachments/assets/f6948c7f-9014-4142-bb90-30198aaa1852)
 
 
 
